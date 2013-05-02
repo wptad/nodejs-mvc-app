@@ -8,3 +8,4 @@ The purpose is to make good modular web app and make CRUD easy and faster.
 ##Reference
 
 * Backbone-Tutorials: <https://github.com/thomasdavis/backbonetutorials>
+* https://github.com/marionettejs/backbone.marionette
